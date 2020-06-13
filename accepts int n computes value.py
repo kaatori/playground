@@ -1,0 +1,13 @@
+
+print("original sample practice question had n=5 to get 615 when n+nn+nnn")
+print(5 + 55 + 555)
+print("the above is from telling python: print(5 + 55 + 555)")
+print("\n")
+int(input ("Now, enter an integer other than 5: "))
+print("input function automatically prints so python will ignore what I just put in")
+a = (int(input ("Enter the integer 5: ")))
+n1 = int("%s" % a)
+n2 = int("%s%s"  % (a,a))
+n3 = int("%s%s%s" % (a,a,a))
+print (n1 + n2 + n3)
+print("python totally ignored the first input and only took and computed the 2nd input of 5 at the 2nd go-round to give me 615")
