@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+kaatori / playground README
 
-You can use the [editor on GitHub](https://github.com/kaatori/playground/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This repository is a small collection of the first exercises I did while learning Python before I took a properly free online course. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Some of the exercises are from YouTube tutorials. Some of them are from the World Wide Web Consortium (W3C). The W3C (https://www.w3.org/) has a lot of exercises and online courses which I recommend because the W3C is the organization responsible for standardizing the World Wide Web (WWW). This includes educating the public about proper coding practices for the Internet (as we have come to know it) to be as accessible and user-friendly as possible. 
 
-### Markdown
+Thank you for reading, and let me know if you have comments!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kaatori/playground/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
